@@ -2,5 +2,5 @@
 My mindmup maps are:
 - stored in this repositoty, and
 - published here
-  - web page: [readings_and_presentations](https://atlas.mindmup.com/2015/10/9d5f36305d330133db4d4147ed4fb840/readings_and_presentations/index.html)
-  - thumbnail image: [readings_and_presentations](https://atlas.mindmup.com/2015/10/9d5f36305d330133db4d4147ed4fb840/readings_and_presentations/thumb.png)
+  - web page: [masterclass_dobles_de_test](https://atlas.mindmup.com/2015/10/fc0c3b005d340133db4d4147ed4fb840/masterclass_dobles_de_test/index.html)
+  - thumbnail image: [masterclass_dobles_de_test](https://atlas.mindmup.com/2015/10/fc0c3b005d340133db4d4147ed4fb840/masterclass_dobles_de_test/thumb.png)
