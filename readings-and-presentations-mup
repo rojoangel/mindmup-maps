@@ -4,8 +4,22 @@
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "",
-      "id": 3
+      "title": "TestDouble - by Martin Fowler @ Bliki",
+      "id": 3,
+      "attr": {
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://www.martinfowler.com/bliki/TestDouble.html\">http://www.martinfowler.com/bliki/TestDouble.html</a>"
+        },
+        "style": {}
+      }
     }
+  },
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "<a href=\"https://www.youtube.com/watch?v=S4Ueg64xfXQ\">https://www.youtube.com/watch?v=S4Ueg64xfXQ</a>"
+    },
+    "style": {}
   }
 }
