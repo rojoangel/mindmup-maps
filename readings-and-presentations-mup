@@ -37,7 +37,7 @@
           }
         },
         "3": {
-          "title": "Test Double @ xUnit Patterns",
+          "title": "[reading] Test Double @ xUnit Patterns",
           "id": 9,
           "attr": {
             "attachment": {
@@ -48,7 +48,7 @@
           }
         },
         "4": {
-          "title": "InMemoryTestDatabase - by Martin Fowler @ Bliki",
+          "title": "[reading] InMemoryTestDatabase - by Martin Fowler @ Bliki",
           "id": 10,
           "attr": {
             "attachment": {
